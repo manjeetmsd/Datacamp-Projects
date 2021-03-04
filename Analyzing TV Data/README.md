@@ -1,4 +1,4 @@
-# TV, halftime shows, and the Big Game
+# Analyzing TV Data
 
 This project is about the analysis of the Super Bowl games, TV viewership and halftime performances.
 
